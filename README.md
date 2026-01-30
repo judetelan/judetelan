@@ -29,7 +29,7 @@ AI-human integration. That's the game.
 <td width="33%">
 
 ### 🎙️ CallView AI
-**Voice AI for businesses**
+**Co-Founder** — Voice AI for businesses
 
 Small businesses miss 62% of calls. We fix that.
 
@@ -43,13 +43,13 @@ Small businesses miss 62% of calls. We fix that.
 <td width="33%">
 
 ### ☁️ Clear Skies Media Group
-**Automation studio**
+**Founder** — Indie app studio
 
-Building systems that scale for clients tired of duct-tape workflows.
+Apps should solve real problems, not chase trends.
 
-→ Automation architecture
-→ AI integration
-→ Workflow optimization
+→ Android apps with intentional features
+→ User-centered design
+→ Currently building: MyBayad
 
 **[clearskiesmediagroup.com](https://clearskiesmediagroup.com)**
 
@@ -57,13 +57,13 @@ Building systems that scale for clients tired of duct-tape workflows.
 <td width="33%">
 
 ### 🇵🇭 Tambayan PH
-**Community platform**
+**Co-Founder** — Automation agency
 
-Filipino community scaled through systems, not headcount.
+Filipino automation & software company building mission-critical systems.
 
-→ Automated operations
-→ Smart moderation
-→ Community-first design
+→ n8n workflows & custom software
+→ Training programs
+→ 24/7 Discord support
 
 **[tambayanph.com](https://tambayanph.com)**
 
